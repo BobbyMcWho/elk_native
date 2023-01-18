@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "elk_native",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -20,7 +20,7 @@
     },
     "bundle": {
       "active": true,
-      "category": "DeveloperTool",
+      "category": "SocialNetworking",
       "copyright": "",
       "deb": {
         "depends": []
@@ -33,7 +33,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.elk.native",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
