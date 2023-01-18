@@ -4,4 +4,7 @@ Small executable, cross platform, uses your native built-in webview implementati
 
 Eventually it would be cool to pull from the [Elk GitHub](https://github.com/elk-zone/elk) and integrate straight w/ it, but for now it's just the wrapper. 
 
+### Installing
+You can download from the releases [here](https://github.com/BobbyMcWho/elk_native/releases). 
+
 Until code signing is set up, you will have to open the Mac app [via the unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) workaround. 
